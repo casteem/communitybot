@@ -20,10 +20,10 @@
     "port": 3700
   },
   "membership": {
-    "start_date": "2/20/2018",
+    "start_date": "7/16/2018",
     "membership_period_days": 30,
-    "delegation_vests": 30000,
-    "full_delegation_vests": 100000,
+    "delegation_vests": 40000,
+    "full_delegation_vests": 120000,
     "dues_steem": 1,
     "dues_steem_no_delegation": 2
   },
