@@ -1,7 +1,7 @@
 {
   "disabled_mode": false,
   "detailed_logging": false,
-  "account": "bot_account_name",
+  "account": "trustbot",
   "memo_key": "your_private_memo_key",
   "posting_key": "your_private_posting_key",
   "active_key": "your_private_active_key",
@@ -17,13 +17,13 @@
 	"whitelisted_tags": [],
   "api": {
     "enabled": true,
-    "port": 3100
+    "port": 3700
   },
   "membership": {
     "start_date": "2/20/2018",
     "membership_period_days": 30,
-    "delegation_vests": 60000,
-    "full_delegation_vests": 120000,
+    "delegation_vests": 30000,
+    "full_delegation_vests": 100000,
     "dues_steem": 1,
     "dues_steem_no_delegation": 2
   },
